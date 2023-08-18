@@ -1,0 +1,6 @@
+[book]
+authors = ["Junlapong L."]
+language = "en"
+multilingual = false
+src = "src"
+title = "mdBook example"
